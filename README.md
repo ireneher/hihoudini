@@ -12,3 +12,5 @@ and **edit** HIHOUDINI_ROOT to point to current directory (pwd).
 This HDA contains all the built-in 
 [Arnold LPE AOVs](https://docs.arnoldrenderer.com/display/A5ARP/Light+Path+Expression+AOVs), 
 which can be dynamically toggled.
+
+![Arnold AOVs](doc/images/arnoldaovs/example.gif)
