@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shelfDocument>
+  <toolshelf name="hi" label="HI">
+    <memberTool name="HDRILibrary"/>
+  </toolshelf>
+
+  <tool name="HDRILibrary" label="HDRILibrary" icon="hicon:/SVGIcons.index?VOP_struct.svg">
+    <script scriptType="python"><![CDATA[from hihoudini.hdrilibrary import main
+main.launch()]]></script>
+  </tool>
+
+</shelfDocument>
