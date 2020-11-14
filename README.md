@@ -1,6 +1,6 @@
 # hihoudini
 Tools for SideFX's Houdini
-
+> This repo is very much a WIP, more of a playground as I learn Houdini.
 ### How to install
 1. git clone https://github.com/ireneher/hihoudini.git
 2. cd hihoudini
